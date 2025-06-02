@@ -26,7 +26,8 @@ p {
 .banner {
     background-color: rgba(252,82,82,1);
     padding: 15px;
-    text-align: center;
+    display: flex;
+    justify-content: space-around;
 }
 
 .header {
@@ -75,7 +76,7 @@ button {
 
 .home {
     color: white;
-    margin-right: 50px;
+    margin-left: 20px;
 }
 
 .button-container {
