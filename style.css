@@ -80,6 +80,7 @@ button {
     object-fit: scale-down;
     margin-left: 5px;
     display: flex;
+    overflow: hidden;
 }
 
 .button-container {
