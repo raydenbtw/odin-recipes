@@ -81,3 +81,14 @@ button {
 .button-container {
     margin: 5px;
 }
+
+.paragraph {
+    display: flex;
+    justify-content: center;
+    contain: content;
+    background-color: rgb(247,191,200);
+}
+
+.item {
+    width: 200px;
+}
