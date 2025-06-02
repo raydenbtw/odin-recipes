@@ -47,7 +47,7 @@ p {
     text-align: center;
     background-color: rgba(252,82,82,0.2);
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     flex-direction: row;
     flex-wrap: wrap;
     align-items: center;
@@ -60,7 +60,7 @@ p {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    
+    margin: 20px;
 }
 
 .title {
