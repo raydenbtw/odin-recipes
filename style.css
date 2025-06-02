@@ -78,6 +78,7 @@ button {
     color: white;
     object-fit: fill;
     margin-left: 5px;
+    display: flex;
 }
 
 .button-container {
