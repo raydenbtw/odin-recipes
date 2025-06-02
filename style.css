@@ -87,7 +87,8 @@ img {
 button {
     padding: 10px;
     margin: auto;
-    color: rgb(128,7,7);
+    color: #5995DA; 
+    font-weight: 600;
 }
 
 .home {
