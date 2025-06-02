@@ -76,7 +76,8 @@ button {
 
 .home {
     color: white;
-    margin-left: 20px;
+    object-fit: fill;
+    margin-left: 5px;
 }
 
 .button-container {
