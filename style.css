@@ -22,12 +22,22 @@ p {
     margin-bottom: 10px;
 }
 
-.banner {
+.banner-container {
     background-color: rgba(252,82,82,1);
-    padding: 15px;
+    padding: 20px;
+    display: flex;
+}
+
+.banner {
+    font-size: 14px;
+    width: 900px;
     display: flex;
     justify-content: space-around;
-    font-size: 14px;
+}
+
+.home {
+    color: white;
+    flex-wrap: nowrap;
 }
 
 .header {
@@ -79,14 +89,6 @@ button {
     padding: 10px;
     margin: auto;
     color: rgb(128,7,7);
-}
-
-.home {
-    color: white;
-    object-fit: scale-down;
-    margin-left: 5px;
-    display: flex;
-    overflow: hidden;
 }
 
 .button-container {
