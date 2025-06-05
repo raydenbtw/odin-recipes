@@ -52,25 +52,21 @@ p {
 }
 
 .parent {
-    margin: 1rem;
-    padding: 2rem 2rem;
     text-align: center;
+    padding: 40px;
     background-color: rgba(252,82,82,0.2);
     display: flex;
     justify-content: center;
     flex-direction: row;
     flex-wrap: wrap;
     align-items: center;
+    gap: 80px;
 }
 
 .card {
     width: 200px;
     background: #fff;
     background-color: rgba(252,82,82,0.0);
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-    margin: 20px;
 }
 
 .title {
